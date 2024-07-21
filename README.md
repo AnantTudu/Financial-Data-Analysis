@@ -25,7 +25,9 @@ In today's competitive landscape, understanding market dynamics is crucial for b
 7. Market Share by Industry: Analyze the market share of companies grouped by industry or sector.
 
 
+# Dashboard
 
+![Screenshot 2024-06-29 173246](https://github.com/user-attachments/assets/8a4053be-caf8-4b07-8575-f61b73f8f5b8)
 
 
 # Insights
@@ -34,9 +36,3 @@ In today's competitive landscape, understanding market dynamics is crucial for b
 3. A high market capitalization to sales ratio might indicate overvaluation, whereas a low ratio could suggest undervaluation. Companies like Infosys might have a high ratio, reflecting investor optimism about future growth.
 4. These companies are industry leaders and likely set market trends. Observing the top 10, such as Reliance Industries and TCS, helps understand market leadership and investment attractiveness.
 5. Highlighting the top performers in market capitalization and sales showcases industry leaders and their competitive advantages. This information is crucial for benchmarking and strategic planning.
-
-
-
-# Dashboard
-
-![Screenshot 2024-06-29 173246](https://github.com/user-attachments/assets/8a4053be-caf8-4b07-8575-f61b73f8f5b8)
