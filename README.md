@@ -37,4 +37,6 @@ In today's competitive landscape, understanding market dynamics is crucial for b
 
 
 
+# Dashboard
 
+![Screenshot 2024-06-29 173246](https://github.com/user-attachments/assets/8a4053be-caf8-4b07-8575-f61b73f8f5b8)
